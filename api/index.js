@@ -13,6 +13,7 @@ export default function handler(req, res) {
 
   // 2. Kirim data URL Server AI kamu
   res.status(200).json({
-    api_url: "https://alamat-ngrok-kamu-yang-baru.ngrok-free.app",
+    api_url: "https://f37a0d1c5806.ngrok-free.app",
   });
 }
+

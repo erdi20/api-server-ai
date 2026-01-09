@@ -13,7 +13,8 @@ export default function handler(req, res) {
 
   // 2. Kirim data URL Server AI kamu
   res.status(200).json({
-    api_url: "https://f37a0d1c5806.ngrok-free.app",
+    api_url: "https://5f4c63a556fe.ngrok-free.app",
   });
 }
+
 

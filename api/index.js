@@ -10,9 +10,10 @@ export default function handler(req, res) {
   }
 
   res.status(200).json({
-    api_url: "https://5f4c63a556fe.ngrok-free.app",
+    api_url: "https://805c70cc892a.ngrok-free.app",
   });
 }
+
 
 
 
